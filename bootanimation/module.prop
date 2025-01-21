@@ -1,0 +1,7 @@
+id=bootleggers
+name=Bootleggers-Bootanimation
+version=1.3
+versionCode=1
+author=rhythmcache.t.me
+description=Installs Bootleggers-Bootanimation Systemlessly on Your Device
+updateJson=https://raw.githubusercontent.com/f33a6a/Bootleggers-Bootanimations/main/bootanimation/updateJson
