@@ -11,4 +11,6 @@ This Module Installs Bootleggers Bootanimation systemlessly
 ### Compatibility 
 - devices which uses a `/system/product/media/bootanimation.zip` or `/system/media/bootanimation.zip` are supported
 
+- [Click Here To Preview)[./preview.md]
+
 
