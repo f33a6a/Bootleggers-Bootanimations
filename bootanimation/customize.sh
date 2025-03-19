@@ -67,7 +67,7 @@ done
 ui_print "- Downloading STYLE $selected......"
 URL="https://raw.githubusercontent.com/f33a6a/Bootleggers-Bootanimations/main/bootanimation/style${selected}.zip"
 
-if ! busybox wget -O "$MODPATH$tf/bootanimation.zip" "$URL"; then
+if ! wget -O "$MODPATH$tf/bootanimation.zip" "$URL"; then
     ui_print "! Download failed"
     abort
 fi
